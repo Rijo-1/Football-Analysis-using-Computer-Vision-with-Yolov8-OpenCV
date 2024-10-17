@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 5
+names: ['ball', 'coach', 'fan', 'player', 'referee']
+
+roboflow:
+  workspace: morris-ichbz
+  project: football-tactical-camera-npogn
+  version: 2
+  license: MIT
+  url: https://universe.roboflow.com/morris-ichbz/football-tactical-camera-npogn/dataset/2
