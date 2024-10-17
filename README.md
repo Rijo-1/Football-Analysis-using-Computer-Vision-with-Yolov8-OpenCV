@@ -61,16 +61,17 @@ The project uses a **custom dataset** of football videos with annotated player a
 ## 🖼️ Screenshots
 
 ### 1. Homepage
-![Homepage](./Screenshots/homepage.jpg)
+![Homepage](./Screenshots/Intro_page.jpg)
 
 ### 2. Color Prediction
-![Color Prediction](./Screenshots/color%20prediction.jpg)
+![Color Prediction](./Screenshots/Color%20detection.jpg)
 
 ### 3. Model Hyperparameters Configuration
 ![Hyperparameters](./Screenshots/Model%20HyperPArameters.jpg)
 
 ### 4. Final Output
 ![Output](./Screenshots/output.jpg)
+
 
 
 
