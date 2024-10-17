@@ -60,14 +60,18 @@ The project uses a **custom dataset** of football videos with annotated player a
 
 ## 🖼️ Screenshots
 
-### 1. Player Detection and Tactical Map Projection
-![Player Detection](./screenshots/player_detection.png)
+### 1. Homepage
+![Homepage](./screenshots/homepage.jpg)
 
-### 2. Team Prediction Based on Color Analysis
-![Team Prediction](./screenshots/team_prediction.png)
+### 2. Color Prediction
+![Color Prediction](./screenshots/color%20prediction.jpg)
 
-### 3. Real-time Football Analysis Dashboard
-![Real-time Analysis](./screenshots/real_time_analysis.png)
+### 3. Hyperparameters Configuration
+![Hyperparameters](./screenshots/Hyper%20parameters.jpg)
+
+### 4. Final Output
+![Output](./screenshots/output.jpg)
+
 
 
 ## 🤝 Collaborators
