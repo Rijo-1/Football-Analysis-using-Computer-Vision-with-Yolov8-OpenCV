@@ -57,10 +57,10 @@ The project uses a **custom dataset** of football videos with annotated player a
    ```bash
    python main.py
    ```
-##🤝 Collaborators
-This project was made possible with the contributions of the following collaborators:
 
-Riya-jalan
-Nish-037
-Sameeksha0329
+## 🤝 Collaborators
+This project was made possible with the contributions of the following collaborators:
+- [Riya-jalan](https://github.com/Riya-jalan)
+- [Nish-037](https://github.com/Nish-037)
+- [Sameeksha0329](https://github.com/Sameeksha0329)
 
