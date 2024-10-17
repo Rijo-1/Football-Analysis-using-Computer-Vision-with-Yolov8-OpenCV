@@ -55,7 +55,7 @@ The project uses a **custom dataset** of football videos with annotated player a
 
 4. Run the project:
    ```bash
-   python main.py
+   streamlit main.py
    ```
 
 ## 🖼️ Screenshots
