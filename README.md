@@ -58,6 +58,18 @@ The project uses a **custom dataset** of football videos with annotated player a
    python main.py
    ```
 
+## 🖼️ Screenshots
+
+### 1. Player Detection and Tactical Map Projection
+![Player Detection](./screenshots/player_detection.png)
+
+### 2. Team Prediction Based on Color Analysis
+![Team Prediction](./screenshots/team_prediction.png)
+
+### 3. Real-time Football Analysis Dashboard
+![Real-time Analysis](./screenshots/real_time_analysis.png)
+
+
 ## 🤝 Collaborators
 This project was made possible with the contributions of the following collaborators:
 - [Riya-jalan](https://github.com/Riya-jalan)
