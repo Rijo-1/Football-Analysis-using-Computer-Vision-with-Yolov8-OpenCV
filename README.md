@@ -58,19 +58,4 @@ The project uses a **custom dataset** of football videos with annotated player a
    python main.py
    ```
 
-## 🧪 Usage
-- **Input Video**: Upload your football match video in the `/input` folder.
-- **Output**: The detected player coordinates, ball trajectory, and tactical map projection will be saved and visualized.
 
-## 🛡️ License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-## 💬 Contributing
-Pull requests are welcome. For significant changes, please open an issue first to discuss what you'd like to change.
-
-## 📧 Contact
-For any queries or suggestions, feel free to contact me at **your-email@example.com**.
-
----
-
-You can adjust the sections and explanations as needed based on your specific project details.
