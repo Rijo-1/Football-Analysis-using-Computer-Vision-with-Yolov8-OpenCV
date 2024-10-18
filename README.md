@@ -10,7 +10,7 @@ This project leverages **deep learning** techniques for **football video analysi
 - **Real-time Analysis**: Frame-by-frame tracking of player movements and ball trajectory for real-time insights.
 
 ## 🧑‍💻 Technologies Used
-- **Deep Learning Model**: [YOLOv8](https://github.com/ultralytics/yolov8) (You Only Look Once - Version 8) for object detection.
+- **Deep Learning Model**: [YOLOv8](https://yolov8.com/) (You Only Look Once - Version 8) for object detection.
 - **Computer Vision Library**: [OpenCV](https://opencv.org/) for video processing and homography matrix calculations.
 - **Programming Language**: Python.
 - **Other Libraries**:
@@ -51,7 +51,7 @@ The project uses a **custom dataset** of football videos with annotated player a
    pip install -r requirements.txt
    ```
 3. Download the Yolov8 weights:
-   - You can find the pre-trained weights on the [Ultralytics GitHub page](https://github.com/ultralytics/yolov8) or train your custom model.
+   - You can find the pre-trained weights on the [Ultralytics GitHub page](https://github.com/ultralytics/ultralytics) or train your custom model.
 
 4. Run the project:
    ```bash
